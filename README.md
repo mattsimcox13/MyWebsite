@@ -1,2 +1,2 @@
 # MyWebsite
-My website trial {DevTips} video follow allong
+My website trial {DevTips} video follow along
